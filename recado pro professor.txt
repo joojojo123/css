@@ -1,0 +1,14 @@
+só pra avisar, a tag escolhida foi section!
+
+section{
+    margin-inline: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+ 
+  }
+
+acabou que pra tentar fazer a navbar acabei usando muito mais das outras tags do que a propria section kkkkk
+
+mas ao menos foram as 5 que você pediu
